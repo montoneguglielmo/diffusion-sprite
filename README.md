@@ -135,10 +135,6 @@ The `ContextUnet` model consists of:
 - matplotlib >= 3.4.0
 - tqdm >= 4.65.0
 
-## License
-
-[Add your license here]
-
 ## Acknowledgments
 
 This implementation is based on the Denoising Diffusion Probabilistic Models (DDPM) paper by Ho et al. (2020).
